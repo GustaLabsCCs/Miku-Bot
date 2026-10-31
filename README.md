@@ -8,7 +8,7 @@ A Miku é uma assistente inteligente desenvolvida para facilitar a administraç�
 
 ## Documentação
 
-- Política de Privacidade — em desenvolvimento.
+- Política de Privacidade — Já Publicado.
 - Termos de Serviço — em desenvolvimento.
 
 ## Versão
