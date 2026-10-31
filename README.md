@@ -9,7 +9,12 @@ A Miku é uma assistente inteligente desenvolvida para facilitar a administraç�
 ## Documentação
 
 - Política de Privacidade — Já Publicado.
-- Termos de Serviço — em desenvolvimento.
+- Termos de Serviço — Já Publicado.
+
+## Link das Documentações
+
+- Política de Privacidade — https://github.com/GustaLabsCCs/Miku-Bot/blob/main/PRIVACY_POLICY.md
+- Termos de Serviço — https://github.com/GustaLabsCCs/Miku-Bot/blob/main/TERMS_OF_SERVICE.md
 
 ## Versão
 
