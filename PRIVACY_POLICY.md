@@ -190,4 +190,4 @@ Para dúvidas, solicitações relacionadas à privacidade ou pedidos referentes 
 
 **E-mail:** gustavodiastrabalhos@gmail.com
 
-**Segundo Responsável:** Gustavo ou {Dash}
+**Identificação Secundária:** Gustavo ou {Dash}
