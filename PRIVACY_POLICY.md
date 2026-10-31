@@ -3,7 +3,7 @@
 **Versão:** 1.0  
 **Última atualização:** 31 de outubro de 2026  
 **Responsável pelo tratamento:** GustavoLabsCCs  
-**Contato sobre privacidade:** gustavodiastrabalhos
+**Contato sobre privacidade:** gustavodiastrabalhos@gmail.com
 
 ## 1. Introdução
 
