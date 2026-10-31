@@ -2,8 +2,8 @@
 
 **Versão:** 1.0  
 **Última atualização:** 31 de outubro de 2026  
-**Responsável pelo tratamento:** [NOME DO RESPONSÁVEL OU ENTIDADE]  
-**Contato sobre privacidade:** [E-MAIL DE CONTATO]
+**Responsável pelo tratamento:** GustavoLabsCCs  
+**Contato sobre privacidade:** gustavodiastrabalhos
 
 ## 1. Introdução
 
@@ -190,4 +190,4 @@ Para dúvidas, solicitações relacionadas à privacidade ou pedidos referentes 
 
 **E-mail:** gustavodiastrabalhos@gmail.com
 
-**Responsável:** Gustavo ou {Dash}
+**Segundo Responsável:** Gustavo ou {Dash}
